@@ -1,4 +1,3 @@
-Here's a structured README template for your Google Play Store database analysis project using Databricks, PySpark, and Python SQL. You can customize it further based on your specific project details and preferences.
 
 ---
 
@@ -93,7 +92,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to add any additional sections or information specific to your project. Let me know if you need further assistance!
 
 
 
